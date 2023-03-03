@@ -1,0 +1,7 @@
+name: DugsFundamentals
+version: '${version}'
+main: io.github.keirenw.dugsfundamentals.DugsFundamentals
+api-version: 1.19
+prefix: Fundamentals
+authors: [ KeirenW ]
+description: Collection of essential commands for Pfizer Chief servers

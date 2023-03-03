@@ -28,6 +28,7 @@ public final class DugsFundamentals extends JavaPlugin {
           ///////////////////////
          // REGISTER COMMANDS //
         ///////////////////////
+        this.getCommand("ping").setExecutor(new CommandPing());
     }
 
     @Override
